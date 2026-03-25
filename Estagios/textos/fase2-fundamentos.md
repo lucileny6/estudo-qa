@@ -2,6 +2,8 @@
 
 ## Bug, Defeito e Falha
 
+Erro é a  ação humana que gera um problema no código ou na lógica do sistema.
+
 Defeito é um erro presente no código ou na lógica do sistema.
 
 Bug é quando esse defeito é encontrado durante os testes e registrado pela equipe de QA.
@@ -29,3 +31,15 @@ Teste de Integração: verifica se diferentes módulos do sistema funcionam corr
 Teste de Sistema: avalia o funcionamento completo do sistema.
 
 Teste de Aceitação: valida se o sistema atende aos requisitos definidos pelo cliente.
+
+Teste Funcional: verifica se as funcionalidades estão corretas.
+
+Teste Não Funcional: avalia desempenho, segurança e usabilidade.
+
+Teste de Fumaça (Smoke Test): verifica se o sistema básico está funcionando.
+
+Teste Exploratório: realizado sem roteiro, baseado na experiência do testador.
+
+Teste de Usabilidade: avalia a facilidade de uso do sistema.
+
+Teste de Segurança: verifica vulnerabilidades e proteção de dados.
