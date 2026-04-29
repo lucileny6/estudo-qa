@@ -34,3 +34,6 @@ Pelo que eu entendi, o **QA (Quality Assurance)** é o profissional que acompanh
 Já o **QC (Quality Control)** parece atuar mais quando o sistema já está pronto ou quase pronto. Nesse caso, ele testa o software para verificar se tudo está funcionando de acordo com o que foi definido no projeto.
 
 Sobre o **SDLC**, eu entendi que é o ciclo de vida do desenvolvimento do software, ou seja, todas as etapas pelas quais o sistema passa desde o planejamento até a entrega. Dentro desse processo, o profissional de testes pode ajudar a identificar possíveis problemas e melhorar a qualidade do software.
+
+## Autor
+Lucileny Xavier
